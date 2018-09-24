@@ -1,5 +1,5 @@
 {
-  "name": "@lee182/number2str",
+  "name": "number2str",
   "version": "1.0.0",
   "description": "Converts an number to string from an given alphabet and can also perform the reverse operation",
   "main": "number2str.js",

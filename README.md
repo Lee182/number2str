@@ -1,16 +1,17 @@
-# @lee182/number2str
+# number2str
 A simple libary which takes a number and optional alphabet and returns a string. This string can be inversed to get back the original number put in.
 
 
 ## Usage
 ### install
 ```bash
-npm install @lee182/number2str
+# install from github
+npm install Lee182/number2str
 ```
 
 ### .encode(n, ?alphabet: string)
 ```js
-const number2str = require('@lee182/number2str')
+const number2str = require('Lee182/number2str')
 
 // encode
 const str1 = number2str.encode(1) // => a
